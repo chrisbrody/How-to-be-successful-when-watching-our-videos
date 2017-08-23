@@ -1,0 +1,42 @@
+WATCHINGVIDEOS 1.1 - Intro to video for watching videos
+WATCHINGVIDEOS 1.2 - Proper environment
+WATCHINGVIDEOS 1.3 - Video Speed
+WATCHINGVIDEOS 1.4 - Taking Notes
+WATCHINGVIDEOS 1.5 - Coding Along
+WATCHINGVIDEOS 1.7 - Outro to video for watching videos
+
+
+
+WATCHINGVIDEOS 1.1 - Intro to video for watching videos
+Hey Chris from Codify Academy here.
+In this video I want to talk to you about how to be successful when watching videos and improving your learning potential.
+We are going to look at four things, What's a proper environment, Controlling Video Speed, Taking down notes and Coding Along with us.
+
+
+
+WATCHINGVIDEOS 1.2 - Proper environment - location and additional screens
+First, having the proper environment to learn is very important. We do have open office hours but in addition to that we recommend setting up a space at home and finding a comfortable space close to home where you can code. Libraries are def #1 for this.
+When Listening you should plug in headphones this also drowns out outside noises. And most developers have 2 screens so at some point you want to invest in a second screen, when coding it gives you a bigger workspace.  Technically, you already have a second screen and its probably sitting in your pocket right now, your phone can be the screen you watch videos on while you code on your laptop, although I do suggest getting something a bit bigger in the future.
+
+
+
+WATCHINGVIDEOS 1.3 - Video Speed
+Next lets talk video speed, sometimes videos can go to fast or to slow. Google something called Video Speed Controller and we want to add this Google Chrome Extension to the browser. Just click on Add to Chrome.
+
+And when a video is played you will see this indicator and you can increase or decrease the speed of videos. A super useful tool. You can refresh the video and the controllers indicator will show up and you can increase or decrease video speed now.
+
+https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
+
+
+
+WATCHINGVIDEOS 1.4 - Taking Notes
+Next up is taking notes, about 60% of what you write done will be remembered by your brain. because we are tricking it into thinking this stuff is super critical so remember it.  You might write something like definitions or examples of HTML elements and Attributes or How properties and values in CSS work.  Also in the future with projects we will want to start on paper before we open our computers so you might as well get used to it now.
+
+WATCHINGVIDEOS 1.5 - Coding Along with the video
+As you're watching and code is being written, make sure to take the time to pause the video and write the code out and view it in browser.
+
+Remember the brain trick from your note take, the same thing happens here when you actually do something you remember about 75% of it.
+
+
+WATCHINGVIDEOS 1.6 - Outro to video for watching videos
+Thats it for now, make sure to have a good environment for learning, take control of the video speed, take some notes and code along with us, doing all of this will build up your skills faster then without it.
